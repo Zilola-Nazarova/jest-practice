@@ -1,4 +1,4 @@
-const capitalize = require('./capitalize.js')
+const capitalize = require('./capitalize.js');
 
 test('lowercase string', () => {
   // Arrange
